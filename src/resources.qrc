@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="">
+        <file>assets/icon.svg</file>
+        <file>assets/Speed_Sensor_icon.png</file>
+        <file>assets/Cadence_Sensor_icon.png</file>
+        <file>assets/Heart_Rate_Sensor_icon.png</file>
+        <file>assets/save_as_icon.svg</file>
+        <file>assets/save_icon.svg</file>
+        <file>assets/open_file_icon.svg</file>
+        <file>assets/close_file_icon.svg</file>
+         <file>assets/clear_search_bar_icon.svg</file>
+    </qresource>
+</RCC>
